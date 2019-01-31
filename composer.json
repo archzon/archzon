@@ -1,0 +1,25 @@
+{
+    "name": "archzon/archzon",
+    "description": "a new e-commerce platform for developers",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yumin Gui",
+            "email": "guiyumin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ArchZon\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ArchZon\\test\\": "test/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
