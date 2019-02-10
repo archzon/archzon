@@ -2,7 +2,7 @@
     "name": "archzon/archzon",
     "description": "a new e-commerce platform for developers",
     "type": "project",
-    "license": "MIT",
+    "license": "Apache 2.0",
     "authors": [
         {
             "name": "Yumin Gui",
